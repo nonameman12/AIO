@@ -17,7 +17,7 @@ echo "This program/script uses GNU General Public License
 	-I	installs software
 	-h	Displays this help page
 
-	Credits: Takoda J. Horton (founder and current mantainer)"
+	Credits: nonameman12 (founder and current mantainer)"
 }
 
 if [ "$1" == "-U" ]; then
